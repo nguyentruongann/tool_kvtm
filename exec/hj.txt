@@ -1,0 +1,5 @@
+npm install appium-uiautomator2-driver
+npm install appium
+adb kill-server
+adb start-server
+adb devices

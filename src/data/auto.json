@@ -1,0 +1,130 @@
+{
+    "sky-garden": [
+        {
+            "key": "kvtm-auto-1",
+            "name": "HongSay-NuocTao",
+            "disabled": false,
+            "order": 4,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-auto-2",
+            "name": "nuocchanh_vaitim",
+            "disabled": false,
+            "order": 4,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-auto-3",
+            "name": "NuocHoaHong",
+            "disabled": false,
+            "order": 2,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-tree",
+            "name": "null",
+            "disabled": false,
+            "order": 4,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-buy",
+            "name": "null",
+            "disabled": false,
+            "order": 5,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-ga",
+            "name": "ga",
+            "disabled": false,
+            "order": 6,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-bo",
+            "name": "bo",
+            "disabled": false,
+            "order": 7,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-heo",
+            "name": "null",
+            "disabled": false,
+            "order": 8,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-cuu",
+            "name": "null",
+            "disabled": false,
+            "order": 9,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-ga-sell",
+            "name": "null",
+            "disabled": false,
+            "order": 10,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-bo-sell",
+            "name": "null",
+            "disabled": false,
+            "order": 11,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-heo-sell",
+            "name": "heo",
+            "disabled": false,
+            "order": 12,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-event-cuu-sell",
+            "name": "cuu",
+            "disabled": false,
+            "order": 13,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-achievement-1",
+            "name": "null",
+            "disabled": false,
+            "order": 14,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-auto-4",
+            "name": "HongSay-NuocTuyet",
+            "disabled": false,
+            "order": 3,
+            "recommend": false
+        },
+        {
+            "key": "kvtm-auto-5",
+            "name": "Nuước chanh-Dừa Sấy",
+            "disabled": false,
+            "order": 0,
+            "recommend": true
+        },
+        {
+            "key": "kvtm-auto-6",
+            "name": "Cay Su Kien",
+            "disabled": false,
+            "order": 1,
+            "recommend": true
+        },
+        {
+            "key": "kvtm-auto-7",
+            "name": "nuoc Chanh - td tao",
+            "disabled": false,
+            "order": 1,
+            "recommend": false
+        }
+    ]
+}
